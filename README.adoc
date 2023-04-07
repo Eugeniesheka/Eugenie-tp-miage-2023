@@ -5,7 +5,8 @@ WARNING: NE PAS OUBLIER DE MENTIONNER LES DEUX NOMS SI VOUS ETES EN BINOME!
 
 #XXX# (et #YYY#)
 
-Commentaires éventuels des étudiants : #XXXXXX#
+Commentaires éventuels des étudiants : #Voir le fork evan1345
+/tp-miage-2023.#
 
 ## Pré-requis 
 
